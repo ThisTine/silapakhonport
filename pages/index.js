@@ -10,7 +10,7 @@ export default function Home() {
       <div className="homeqr">
           <div className="qrcode">
             <img className="qrcodeimg" src="/img/suqr.png"/>
-            <p>Portfolio เล่มนี้ถูกจัดทำขึ้นโดยภาษา javascript ผ่าน Nextjs (แสกนเผื่อดู source code)</p>
+            <p>Portfolio เล่มนี้ถูกจัดทำขึ้นโดยภาษา javascript ผ่าน Nextjs (แสกนเพื่อดู source code)</p>
             <div className="pj-text-con"><a className="pj-web-text" href='https://s.thistine.com/su' target="blank" style={{fontSize:"0.6rem"}} >https://s.thistine.com/su</a> </div>
             
           </div>
