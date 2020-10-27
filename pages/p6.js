@@ -15,13 +15,13 @@ export default function p6() {
         <Award imgp="/img/certi/oeg.jpg" caption="เข้าร่วมโปรแกรมนักเรียนแลกเปลี่ยน ณ ประเทศ สหรัฐอเมริกา ปี 2019-2020" />
         </div>
         <div className="haf">
-        <Award imgp="/img/certi/etech.jpg" caption="รางวัลชนะเลิศ Computer Graphic & Homepage Contest" />
+        <Award imgp="/img/certi/etech.jpg" caption="รางวัลชนะเลิศ Computer Graphic & Homepage Contest E-tech" />
         </div>
         <div className="haf">
-        <Award imgp="/img/certi/Nextjs.png" caption="เข้าร่วม nextjs conf 2020" />
+        <Award imgp="/img/certi/Nextjs.png" caption="เข้าร่วมงานสัมมนา nextjs conf 2020" />
         </div>
         <div className="haf">
-        <Award imgp="/img/certi/aws.jpg" caption="เข้าร่วม AWS | AWSOME DAY" />
+        <Award imgp="/img/certi/aws.jpg" caption="เข้าร่วม AWS | AWSOME DAY งานสัมมนา online เรียนรู้เกี่ยวกับบริการต่าง ๆ ภายใน amazon web service" />
         </div>
             
         </div>

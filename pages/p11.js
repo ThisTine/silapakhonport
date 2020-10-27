@@ -19,7 +19,7 @@ export default function p10() {
             
             <div className="activity-con">
             <img src="/img/act/foodrive.jpg" className="activity-pic" />
-            <p className="activity-parag"> กิจกรรม foodrive ช่วยเหลือผู้คนที่ได้รับ
+            <p className="activity-parag"> กิจกรรม Food Drive ช่วยเหลือผู้คนที่ได้รับ
 ผลกระทบจากฮอริเคนในสหรัฐอเมริกาเมื่อ
 ปี 2018 </p>
             </div>
@@ -27,20 +27,20 @@ export default function p10() {
             <div className="activity-con">
             <img src="/img/act/bed.jpg" className="activity-pic" />
             <p className="activity-parag"> กิจกรรมสร้างเตียงนอนสำหรับผู้ที่ได้รับ
-ผลกระทบน้ำท่วมในสหรัฐอเมริจาเนื่อง
+ผลกระทบน้ำท่วมในสหรัฐอเมริกาเนื่อง
 จากผลกระทบของ ฮอริเคน </p>
             </div>
 
             <div className="activity-con">
             <img src="/img/act/christ.jpg" className="activity-pic" />
             <p className="activity-parag"> กิจกรรมสร้างเตียงนอนสำหรับผู้ที่ได้รับ
-ผลกระทบน้ำท่วมในสหรัฐอเมริจาเนื่อง
+ผลกระทบน้ำท่วมในสหรัฐอเมริกาเนื่อง
 จากผลกระทบของ ฮอริเคน </p>
             </div>
 
             <div className="activity-con">
             <img src="/img/act/cookie.jpg" className="activity-pic" />
-            <p className="activity-parag"> กิจกรรมอบคุกกี้สำหรับแจกจ่ายในวันคริสมาส </p>
+            <p className="activity-parag"> กิจกรรมอบขนม - คุกกี้สำหรับแจกจ่ายเพื่อนบ้านในหมู่บ้านในวันคริสมาส </p>
             </div>
             
         </div>

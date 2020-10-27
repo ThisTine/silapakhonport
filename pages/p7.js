@@ -18,11 +18,11 @@ export default function p6() {
         <Award imgp="/img/certi/efsetctf.jpg" caption="ผลการทดสอบ EFset CEFR ระดับ C1 (2020)" />
         </div>
         <div className="haf">
-        <Award imgp="/img/certi/movie.jpg" caption="การแข่งขันศิลป่ะหัตถกรรมระดับชาติ ครั้งที่ ๖๙ หมวด หนังสั้น (เหรียญเงิน)" />
+        <Award imgp="/img/certi/movie.jpg" caption="การแข่งขันศิลปหัตถกรรมระดับชาติ ครั้งที่ ๖๙ หมวด หนังสั้น (เหรียญเงิน)" />
         </div>
         <div className="haf">
             {/* waiting for รด. */}
-        <Award imgp="/img/certi/rotc.jpg" caption="เข้าร่วมการประกวด รด.นวัตกรรม" />
+        <Award imgp="/img/certi/rotc.jpg" caption="เข้าร่วมการประกวด รด.นวัตกรรม ภายใต้โครงการศูนย์ฝึกแข็งขัน สถานศึกษาร่วมใจ มุ่งไปสู่มาตรฐานเดียวกัน" />
         </div>
             
         </div>

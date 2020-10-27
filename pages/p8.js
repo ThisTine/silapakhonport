@@ -14,8 +14,8 @@ export default function p8() {
         </div>
         </div>
         <div className="container" style={{height:"80%",width:"70%",marginTop:"15px"}}>
-        <Project description="เว็บไซต์ทำเนียบศิษย์เก่โรงเรียนพนมอดุลวิทยาสำหรับเพิ่ม/ดู
-            รายชื่อศิษย์เก่ที่จบจากโรงเรียน มีระบบเช็ครายชื่อซ้ำและอื่น ๆ" picConHeight="45%" framework={['react','nodejs','graphql','mongodb']} url="thistine.com/paalumnus/">
+        <Project description="เว็บไซต์ทำเนียบศิษย์เก่าโรงเรียนพนมอดุลวิทยาสำหรับเพิ่ม/ดู
+            รายชื่อศิษย์เก่าที่จบจากโรงเรียน มีระบบเช็ครายชื่อซ้ำและอื่น ๆ" picConHeight="45%" framework={['react','nodejs','graphql','mongodb']} url="thistine.com/paalumnus/">
             
             { img1.file.map(item=>{return(
                 <img key={Math.random()} src={`/img/${img1.folder}/${item[0]}.jpg`} className={item[1] ? `pj-img ${item[1]}` : "pj-img"} alt="test" />
