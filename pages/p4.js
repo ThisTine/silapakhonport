@@ -12,7 +12,7 @@ export default function p5() {
         <div className="container" style={{height:"50%",width:"55%",marginTop:"15px"}}>
         <div className="twoinpage">
             <div className="one">
-            <Award imgp="/img/certi/webapp.jpg" caption="การแข่งขันศิลป่ะหัตถกรรมระดับชาติ ครั้งที่ ๖๙ หมวด Web applications (เหรียญทอง)"/>
+            <Award imgp="/img/certi/webapp.jpg" caption="การแข่งขันศิลปหัตถกรรมระดับชาติ ครั้งที่ ๖๙ หมวด Web applications (เหรียญทอง)"/>
             </div>
             <div className="two">
             <Award imgp="/img/certi/ctf.jpg" caption="เข้าร่วมการแข่งขันทักษะด้านความมั่นคงไซเบอร์ (Royal Thai Air Force Junior CTF 2020) "/>
